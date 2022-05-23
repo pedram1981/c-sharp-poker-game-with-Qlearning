@@ -1,0 +1,24 @@
+c:\users\pedram\documents\visual studio 2013\Projects\poker\poker\bin\Debug\poker.exe.config
+c:\users\pedram\documents\visual studio 2013\Projects\poker\poker\bin\Debug\poker.exe
+c:\users\pedram\documents\visual studio 2013\Projects\poker\poker\bin\Debug\poker.pdb
+c:\users\pedram\documents\visual studio 2013\Projects\poker\poker\obj\Debug\poker.csprojResolveAssemblyReference.cache
+c:\users\pedram\documents\visual studio 2013\Projects\poker\poker\obj\Debug\poker.Form1.resources
+c:\users\pedram\documents\visual studio 2013\Projects\poker\poker\obj\Debug\poker.Properties.Resources.resources
+c:\users\pedram\documents\visual studio 2013\Projects\poker\poker\obj\Debug\poker.csproj.GenerateResource.Cache
+c:\users\pedram\documents\visual studio 2013\Projects\poker\poker\obj\Debug\poker.exe
+c:\users\pedram\documents\visual studio 2013\Projects\poker\poker\obj\Debug\poker.pdb
+E:\D\proje\ebazade\poker\poker\bin\Debug\poker.exe.config
+E:\D\proje\ebazade\poker\poker\obj\Debug\poker.exe
+E:\D\proje\ebazade\poker\poker\obj\Debug\poker.pdb
+E:\D\proje\ebazade\poker\poker\bin\Debug\poker.exe
+E:\D\proje\ebazade\poker\poker\bin\Debug\poker.pdb
+E:\D\proje\ebazade\poker\poker\obj\Debug\poker.Form1.resources
+E:\D\proje\ebazade\poker\poker\obj\Debug\poker.Properties.Resources.resources
+E:\D\proje\ebazade\poker\poker\obj\Debug\poker.csproj.GenerateResource.Cache
+E:\D\proje\ebazade\poker\poker\obj\Debug\poker.csprojResolveAssemblyReference.cache
+E:\E\D\proje\ebazade\poker\poker\bin\Debug\poker.exe.config
+E:\E\D\proje\ebazade\poker\poker\obj\Debug\poker.exe
+E:\E\D\proje\ebazade\poker\poker\obj\Debug\poker.pdb
+D:\company\github-project\poker\poker\bin\Debug\poker.exe.config
+D:\company\github-project\poker\poker\obj\Debug\poker.exe
+D:\company\github-project\poker\poker\obj\Debug\poker.pdb
